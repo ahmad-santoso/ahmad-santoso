@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Ahmad Santoso</h1>
+<h1 align="center">Hello, I'm Ahmad Santoso! 👋</h1>
 <h3 align="center">Passionate Frontend Developer from Indonesia</h3>
 
 <!-- Profile Views Badge -->
@@ -10,14 +10,19 @@
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-santoso" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-santoso&theme=nord&row=2&column=3&margin-w=15" alt="GitHub Trophy">
   </a>
 </p>
 
 <!-- Contact Information -->
-<p align="center">
-  📫 How to reach me: <a href="mailto:ahmadsantoso800@gmail.com">ahmadsantoso800@gmail.com</a>
-</p>
+<div align="center">
+  <h3>📫 How to reach me:</h3>
+  <a href="mailto:ahmadsantoso800@gmail.com">
+    <img src="https://img.icons8.com/ios/50/000000/new-post.png" alt="Email" height="40" width="40"/>
+  </a>
+  <br/>
+  <a href="mailto:ahmadsantoso800@gmail.com">ahmadsantoso800@gmail.com</a>
+</div>
 
 <!-- Social Media Links -->
 <h3 align="center">Connect with me:</h3>
@@ -30,21 +35,21 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" title="Framer" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" title="Illustrator" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
 </p>
 
 <!-- Skills Section -->
@@ -58,19 +63,18 @@
 </p>
 
 <!-- GitHub Streak -->
-<h3 align="center">GitHub Streak:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-santoso" alt="GitHub Streak">
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ahmad-santoso&bg_color=ffffff&color=000000&line=0A0A0A&point=0A0A0A&area=true&hide_border=true" alt="GitHub Activity">
-</p>
-
+<div align="center">
+  <h3>GitHub Streak:</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-santoso" alt="GitHub Streak" width="50%">
+</div>
 
 <!-- GitHub Stats -->
+<div align="center">
+  <h3>GitHub Stats:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-santoso&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+</div>
+
+<!-- Top Languages Card -->
 <p align="center">
-  <!-- Placeholder GIF, replace with actual stats GIF -->
-  <img src="https://github.com/ahmad-santoso/ahmad-santoso/raw/main/github-stats.gif" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-santoso&layout=compact&theme=radical" alt="Top Languages" width="45%">
 </p>
