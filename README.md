@@ -1,7 +1,4 @@
-<!-- Profile Picture -->
-<div align="center">
-  <img src="imageprofile.png" alt="Ahmad Santoso's Profile" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
+![Profile Picture](https://github.com/username/repository/imageprofile.png)
 
 <!-- Header -->
 <h1 align="center">Hello, I'm Ahmad Santoso! 👋</h1>
@@ -46,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" title="Framer" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" title="Illustrator" width="45" height="45"/>
