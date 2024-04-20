@@ -1,3 +1,8 @@
+<!-- Profile Picture -->
+<div align="center">
+  <img src="imageprofile.png" alt="Ahmad Santoso's Profile" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
 <!-- Header -->
 <h1 align="center">Hello, I'm Ahmad Santoso! 👋</h1>
 <h3 align="center">Passionate Frontend Developer from Indonesia</h3>
