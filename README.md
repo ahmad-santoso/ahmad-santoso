@@ -1,4 +1,4 @@
-![Profile Picture](https://github.com/ahmad-santoso/repository/imageprofile.png)
+![Profile Picture](https://github.com/ahmad-santoso/ahmad-santoso/imageprofile.png)
 
 <!-- Header -->
 <h1 align="center">Hello, I'm Ahmad Santoso! 👋</h1>
